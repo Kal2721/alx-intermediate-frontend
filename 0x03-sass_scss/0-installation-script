@@ -1,0 +1,3 @@
+To install SASS first I installed node.js the latest version then 
+I run the command
+npm install sass -v 3.7.4
